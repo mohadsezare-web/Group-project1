@@ -1,6 +1,6 @@
 # Group-project1
 
-![group-project1](https://github.com/user-attachments/assets/87f9a31f-c84a-410d-b455-51ee6e449ca8)
+![group-project1](https://github.com/user-attachments/assets/cf8a6fdc-5658-445d-a9d5-a10e7c859529)
 
 - [Demo Project](https://mohadsezare-web.github.io/Group-project1/)
 
